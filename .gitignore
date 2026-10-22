@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# MMA3001 project data
+data/raw/
+
+# Python environment
+.venv/
+__pycache__/
+
+data/processed/
