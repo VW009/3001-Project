@@ -226,3 +226,6 @@ data/raw/
 __pycache__/
 
 data/processed/
+
+# Generated reconstructed sensor data
+results/reconstructed_missing.csv
